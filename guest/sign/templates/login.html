@@ -1,0 +1,37 @@
+<html>
+    <head>
+        <title>登录</title>
+
+    </head>
+    <body>
+        <h1>欢迎来到web 接口测试！！！！</h1>
+        <br/>
+
+        <form method="POST" action="/login_action/"> 
+            <table>
+                <tr>
+                    <td>用户名:</td>
+                    <td>
+                        <input type="text" name="username" id="username"/>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>密&nbsp&nbsp&nbsp码:</td>
+                    <td>
+                        <input type="password" name="password" id="password"/>
+                    </td>
+                </tr>
+               
+                <tr>
+                    <td>
+                        <input type="submit" value="登录"/>
+                    </td>
+                </tr>
+            </table>
+            {% csrf_token %}
+           <font size="2px" style="color:red">{{error}}</font>
+        </form>
+    </body>
+</html>
+

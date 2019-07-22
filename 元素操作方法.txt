@@ -1,0 +1,15 @@
+tag_name                       获取当前元素的tag name属性
+
+text                                  获取当前元素的text内容
+
+get_property                   获取当前元素指定属性值
+
+get_attribute        获取当前元素指定属性值，注意请看源码，该方法与get_property的区别
+
+is_selected            判断元素的选择状态（针对radio button和checkbox）
+
+is_enabled             判断元素是否可用
+
+send_keys            键盘输入（主要针对text、或text area 可接受键盘输入的元素）
+
+is_displayed           判断元素是否可见
