@@ -1,0 +1,313 @@
+1565245258556	geckodriver	INFO	Listening on 127.0.0.1:52203
+1565245261353	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.lBpHElM2bFBS
+1565245261360	geckodriver::marionette	INFO	Starting browser F:\火狐\firefox.exe with args []
+1565245261547	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52213
+1565245264008	addons.xpi	WARN	Problem getting last modified time for F:\ç«ç\browser\extensions\{972ce4c6-7e08-4474-a285-3208198ce6fd}: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIFile.lastModifiedTime]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: recursiveLastModifiedTime :: line 1353"  data: no] Stack trace: recursiveLastModifiedTime()@resource://gre/modules/addons/XPIProvider.jsm:1353 < getModTime()@resource://gre/modules/addons/XPIProvider.jsm:1501 < syncWithDB()@resource://gre/modules/addons/XPIProvider.jsm:1566 < addMetadata()@resource://gre/modules/addons/XPIProvider.jsm:3289 < XPI_processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm:3441 < XPI_checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3602 < XPI_startup()@resource://gre/modules/addons/XPIProvider.jsm:2090 < callProvider()@resource://gre/modules/AddonManager.jsm:208 < _startProvider()@resource://gre/modules/AddonManager.jsm:667 < AMI_startup()@resource://gre/modules/AddonManager.jsm:824 < AMP_startup()@resource://gre/modules/AddonManager.jsm:2402 < AMC_observe()@resource://gre/components/addonManager.js:55 < <file:unknown>
+1565245264009	addons.xpi	WARN	Can't get modified time of F:\ç«ç\browser\extensions\{972ce4c6-7e08-4474-a285-3208198ce6fd}: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIFile.lastModifiedTime]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: getModTime :: line 1530"  data: no] Stack trace: getModTime()@resource://gre/modules/addons/XPIProvider.jsm:1530 < syncWithDB()@resource://gre/modules/addons/XPIProvider.jsm:1566 < addMetadata()@resource://gre/modules/addons/XPIProvider.jsm:3289 < XPI_processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm:3441 < XPI_checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3602 < XPI_startup()@resource://gre/modules/addons/XPIProvider.jsm:2090 < callProvider()@resource://gre/modules/AddonManager.jsm:208 < _startProvider()@resource://gre/modules/AddonManager.jsm:667 < AMI_startup()@resource://gre/modules/AddonManager.jsm:824 < AMP_startup()@resource://gre/modules/AddonManager.jsm:2402 < AMC_observe()@resource://gre/components/addonManager.js:55 < <file:unknown>
+1565245266801	geckodriver	INFO	Listening on 127.0.0.1:52220
+1565245269869	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.FAD29vrPTApP
+1565245269876	geckodriver::marionette	INFO	Starting browser F:\火狐\firefox.exe with args []
+1565245269968	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52229
+1565245271230	addons.xpi	WARN	Problem getting last modified time for F:\ç«ç\browser\extensions\{972ce4c6-7e08-4474-a285-3208198ce6fd}: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIFile.lastModifiedTime]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: recursiveLastModifiedTime :: line 1353"  data: no] Stack trace: recursiveLastModifiedTime()@resource://gre/modules/addons/XPIProvider.jsm:1353 < getModTime()@resource://gre/modules/addons/XPIProvider.jsm:1501 < syncWithDB()@resource://gre/modules/addons/XPIProvider.jsm:1566 < addMetadata()@resource://gre/modules/addons/XPIProvider.jsm:3289 < XPI_processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm:3441 < XPI_checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3602 < XPI_startup()@resource://gre/modules/addons/XPIProvider.jsm:2090 < callProvider()@resource://gre/modules/AddonManager.jsm:208 < _startProvider()@resource://gre/modules/AddonManager.jsm:667 < AMI_startup()@resource://gre/modules/AddonManager.jsm:824 < AMP_startup()@resource://gre/modules/AddonManager.jsm:2402 < AMC_observe()@resource://gre/components/addonManager.js:55 < <file:unknown>
+1565245271230	addons.xpi	WARN	Can't get modified time of F:\ç«ç\browser\extensions\{972ce4c6-7e08-4474-a285-3208198ce6fd}: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIFile.lastModifiedTime]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: getModTime :: line 1530"  data: no] Stack trace: getModTime()@resource://gre/modules/addons/XPIProvider.jsm:1530 < syncWithDB()@resource://gre/modules/addons/XPIProvider.jsm:1566 < addMetadata()@resource://gre/modules/addons/XPIProvider.jsm:3289 < XPI_processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm:3441 < XPI_checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3602 < XPI_startup()@resource://gre/modules/addons/XPIProvider.jsm:2090 < callProvider()@resource://gre/modules/AddonManager.jsm:208 < _startProvider()@resource://gre/modules/AddonManager.jsm:667 < AMI_startup()@resource://gre/modules/AddonManager.jsm:824 < AMP_startup()@resource://gre/modules/AddonManager.jsm:2402 < AMC_observe()@resource://gre/components/addonManager.js:55 < <file:unknown>
+1565245272893	geckodriver	INFO	Listening on 127.0.0.1:52234
+1565245275878	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.Y5wXeebZNAUw
+1565245275885	geckodriver::marionette	INFO	Starting browser F:\火狐\firefox.exe with args []
+1565245275968	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52244
+1565245276996	addons.xpi	WARN	Problem getting last modified time for F:\ç«ç\browser\extensions\{972ce4c6-7e08-4474-a285-3208198ce6fd}: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIFile.lastModifiedTime]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: recursiveLastModifiedTime :: line 1353"  data: no] Stack trace: recursiveLastModifiedTime()@resource://gre/modules/addons/XPIProvider.jsm:1353 < getModTime()@resource://gre/modules/addons/XPIProvider.jsm:1501 < syncWithDB()@resource://gre/modules/addons/XPIProvider.jsm:1566 < addMetadata()@resource://gre/modules/addons/XPIProvider.jsm:3289 < XPI_processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm:3441 < XPI_checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3602 < XPI_startup()@resource://gre/modules/addons/XPIProvider.jsm:2090 < callProvider()@resource://gre/modules/AddonManager.jsm:208 < _startProvider()@resource://gre/modules/AddonManager.jsm:667 < AMI_startup()@resource://gre/modules/AddonManager.jsm:824 < AMP_startup()@resource://gre/modules/AddonManager.jsm:2402 < AMC_observe()@resource://gre/components/addonManager.js:55 < <file:unknown>
+1565245276997	addons.xpi	WARN	Can't get modified time of F:\ç«ç\browser\extensions\{972ce4c6-7e08-4474-a285-3208198ce6fd}: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIFile.lastModifiedTime]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: getModTime :: line 1530"  data: no] Stack trace: getModTime()@resource://gre/modules/addons/XPIProvider.jsm:1530 < syncWithDB()@resource://gre/modules/addons/XPIProvider.jsm:1566 < addMetadata()@resource://gre/modules/addons/XPIProvider.jsm:3289 < XPI_processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm:3441 < XPI_checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3602 < XPI_startup()@resource://gre/modules/addons/XPIProvider.jsm:2090 < callProvider()@resource://gre/modules/AddonManager.jsm:208 < _startProvider()@resource://gre/modules/AddonManager.jsm:667 < AMI_startup()@resource://gre/modules/AddonManager.jsm:824 < AMP_startup()@resource://gre/modules/AddonManager.jsm:2402 < AMC_observe()@resource://gre/components/addonManager.js:55 < <file:unknown>
+1565248090952	geckodriver	INFO	geckodriver 0.20.0
+1565248090963	geckodriver	INFO	Listening on 127.0.0.1:52771
+1565248094018	geckodriver	INFO	geckodriver 0.20.0
+1565248094029	geckodriver	INFO	Listening on 127.0.0.1:52780
+1565248097062	geckodriver	INFO	geckodriver 0.20.0
+1565248097073	geckodriver	INFO	Listening on 127.0.0.1:52790
+1565248353420	geckodriver	INFO	geckodriver 0.20.0
+1565248353433	geckodriver	INFO	Listening on 127.0.0.1:52831
+1565248356449	geckodriver	INFO	geckodriver 0.20.0
+1565248356463	geckodriver	INFO	Listening on 127.0.0.1:52839
+1565248359509	geckodriver	INFO	geckodriver 0.20.0
+1565248359525	geckodriver	INFO	Listening on 127.0.0.1:52848
+1565248402896	geckodriver	INFO	geckodriver 0.20.0
+1565248402911	geckodriver	INFO	Listening on 127.0.0.1:52888
+1565248405965	geckodriver	INFO	geckodriver 0.20.0
+1565248405979	geckodriver	INFO	Listening on 127.0.0.1:52898
+1565248409014	geckodriver	INFO	geckodriver 0.20.0
+1565248409026	geckodriver	INFO	Listening on 127.0.0.1:52906
+1565248815155	geckodriver	INFO	geckodriver 0.20.0
+1565248815171	geckodriver	INFO	Listening on 127.0.0.1:53055
+1565248818216	geckodriver	INFO	geckodriver 0.20.0
+1565248818227	geckodriver	INFO	Listening on 127.0.0.1:53064
+1565248821271	geckodriver	INFO	geckodriver 0.20.0
+1565248821283	geckodriver	INFO	Listening on 127.0.0.1:53072
+1565250378497	geckodriver	INFO	geckodriver 0.20.0
+1565250378515	geckodriver	INFO	Listening on 127.0.0.1:53273
+1565250381635	geckodriver	INFO	geckodriver 0.20.0
+1565250381649	geckodriver	INFO	Listening on 127.0.0.1:53282
+1565250384616	geckodriver	INFO	geckodriver 0.20.0
+1565250384627	geckodriver	INFO	Listening on 127.0.0.1:53290
+1565250485273	geckodriver	INFO	geckodriver 0.20.0
+1565250485290	geckodriver	INFO	Listening on 127.0.0.1:53303
+1565250488396	geckodriver	INFO	geckodriver 0.20.0
+1565250488411	geckodriver	INFO	Listening on 127.0.0.1:53311
+1565250491414	geckodriver	INFO	geckodriver 0.20.0
+1565250491429	geckodriver	INFO	Listening on 127.0.0.1:53319
+1565573339051	geckodriver	INFO	Listening on 127.0.0.1:56232
+1565573342105	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.Wqhbjhg0XaSh
+1565573342112	geckodriver::marionette	INFO	Starting browser F:\Download\firefox.exe with args []
+1565573342148	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56245
+1565573344193	Marionette	INFO	Listening on port 56245
+1565573345315	Marionette	WARN	TLS certificate errors will be ignored for this session
+1565573367973	Marionette	INFO	New connections will no longer be accepted
+[Child 14492] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[Child 14492] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1565573368345	geckodriver	INFO	Listening on 127.0.0.1:56302
+1565573371420	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.17g638v6s7xs
+1565573371430	geckodriver::marionette	INFO	Starting browser F:\Download\firefox.exe with args []
+1565573371473	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56311
+1565573373582	Marionette	INFO	Listening on port 56311
+1565573374685	Marionette	WARN	TLS certificate errors will be ignored for this session
+1565573394171	Marionette	INFO	New connections will no longer be accepted
+[Child 13896] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[Child 13896] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1565573394574	geckodriver	INFO	Listening on 127.0.0.1:56369
+1565573397637	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.YPauDW2xJw16
+1565573397647	geckodriver::marionette	INFO	Starting browser F:\Download\firefox.exe with args []
+1565573397679	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56381
+1565573400614	Marionette	INFO	Listening on port 56381
+1565573401691	Marionette	WARN	TLS certificate errors will be ignored for this session
+1565575754562	geckodriver	INFO	Listening on 127.0.0.1:58265
+1565575757711	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.wMsZzyzA5nGh
+1565575757717	geckodriver::marionette	INFO	Starting browser F:\Download\firefox.exe with args []
+1565575757807	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58273
+1565575760907	Marionette	INFO	Listening on port 58273
+1565575762101	Marionette	WARN	TLS certificate errors will be ignored for this session
+1565575785857	Marionette	INFO	New connections will no longer be accepted
+[Child 17080] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[Child 17080] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1565575786342	geckodriver	INFO	Listening on 127.0.0.1:58323
+1565575789404	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.n3xPrGHzIncj
+1565575789416	geckodriver::marionette	INFO	Starting browser F:\Download\firefox.exe with args []
+1565575789471	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58331
+1565577936667	geckodriver	INFO	Listening on 127.0.0.1:59184
+1565577939725	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.FZwkDOO7pxNR
+1565577939733	geckodriver::marionette	INFO	Starting browser F:\Download\firefox.exe with args []
+1565577939776	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59193
+1565577942230	Marionette	INFO	Listening on port 59193
+1565577943279	Marionette	WARN	TLS certificate errors will be ignored for this session
+1565577950842	geckodriver::marionette	ERROR	Failed to kill browser process
+1565577951051	geckodriver	INFO	Listening on 127.0.0.1:59233
+1565577954100	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.mDE1yxi4Egjc
+1565577954108	geckodriver::marionette	INFO	Starting browser F:\Download\firefox.exe with args []
+1565577954147	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59243
+1565577956774	Marionette	INFO	Listening on port 59243
+1565577957734	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: can't access dead object
+Full stack: find_@chrome://marionette/content/element.js:279:7
+element.find/</findElements<@chrome://marionette/content/element.js:250:15
+implicitlyWaitFor/</elementSearch@chrome://marionette/content/element.js:594:15
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: can't access dead object
+Full stack: find_@chrome://marionette/content/element.js:279:7
+element.find/</findElements<@chrome://marionette/content/element.js:250:15
+implicitlyWaitFor/</elementSearch@chrome://marionette/content/element.js:594:15
+
+*************************
+Marionette threw an error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: chrome://marionette/content/proxy.js :: sendReply_ :: line 195"  data: no]
+sendReply_@chrome://marionette/content/proxy.js:195:5
+reply@chrome://marionette/content/proxy.js:175:7
+sendToServer@chrome://marionette/content/listener.js:439:3
+sendError@chrome://marionette/content/listener.js:473:3
+dispatch/</<@chrome://marionette/content/listener.js:202:40
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:935:21
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+1565577975983	geckodriver	INFO	Listening on 127.0.0.1:59297
+1565577979034	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.6N7s9Xr9110k
+1565577979041	geckodriver::marionette	INFO	Starting browser F:\Download\firefox.exe with args []
+1565577979072	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59306
+1565577981446	Marionette	INFO	Listening on port 59306
+1565577982542	Marionette	WARN	TLS certificate errors will be ignored for this session
+1565578016950	geckodriver	INFO	Listening on 127.0.0.1:59329
+1565578019993	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.452oORbXqiNP
+1565578020002	geckodriver::marionette	INFO	Starting browser F:\Download\firefox.exe with args []
+1565578020050	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59338
+1565578021742	Marionette	INFO	Listening on port 59338
+1565578022708	Marionette	WARN	TLS certificate errors will be ignored for this session
+1565578044104	Marionette	INFO	New connections will no longer be accepted
+[Child 5788] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[Child 5788] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1565578044463	geckodriver	INFO	Listening on 127.0.0.1:59388
+1565578047510	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.33A7hhcgw0om
+1565578047518	geckodriver::marionette	INFO	Starting browser F:\Download\firefox.exe with args []
+1565578047563	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59397
+1565578050018	Marionette	INFO	Listening on port 59397
+1565578050925	Marionette	WARN	TLS certificate errors will be ignored for this session
+1565578070672	Marionette	INFO	New connections will no longer be accepted
+[Child 13172] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[Child 13172] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1565578071096	geckodriver	INFO	Listening on 127.0.0.1:59449
+1565578074147	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.tbuh25KS4krO
+1565578074182	geckodriver::marionette	INFO	Starting browser F:\Download\firefox.exe with args []
+1565578074229	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59458
+1565578076368	Marionette	INFO	Listening on port 59458
+1565578077493	Marionette	WARN	TLS certificate errors will be ignored for this session
+1565578096678	Marionette	INFO	New connections will no longer be accepted
+[Child 17488] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[Child 17488] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1565578378913	geckodriver	INFO	Listening on 127.0.0.1:59596
+1565578381989	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.nbo9O7j3gxro
+1565578381997	geckodriver::marionette	INFO	Starting browser F:\Download\firefox.exe with args []
+1565578382049	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59605
+1565578385669	Marionette	INFO	Listening on port 59605
+1565578386564	Marionette	WARN	TLS certificate errors will be ignored for this session
+1565578406742	Marionette	INFO	New connections will no longer be accepted
+[Child 17608] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[Child 17608] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1565578407186	geckodriver	INFO	Listening on 127.0.0.1:59654
+1565578410225	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.p7diZrSutHoH
+1565578410233	geckodriver::marionette	INFO	Starting browser F:\Download\firefox.exe with args []
+1565578410280	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59663
+1565578412710	Marionette	INFO	Listening on port 59663
+1565578413623	Marionette	WARN	TLS certificate errors will be ignored for this session
+1565578433988	Marionette	INFO	New connections will no longer be accepted
+[Child 7548] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[Child 7548] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1565578434434	geckodriver	INFO	Listening on 127.0.0.1:59716
+1565578437479	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.dJuErQRSSqGs
+1565578437488	geckodriver::marionette	INFO	Starting browser F:\Download\firefox.exe with args []
+1565578437528	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59725
+1565578439938	Marionette	INFO	Listening on port 59725
+1565578440823	Marionette	WARN	TLS certificate errors will be ignored for this session
+1565578460072	Marionette	INFO	New connections will no longer be accepted
+[Child 3044] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[Child 3044] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1565581477803	geckodriver	INFO	Listening on 127.0.0.1:61316
+1565581481042	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.rNJubVByU6Ws
+1565581481051	geckodriver::marionette	INFO	Starting browser F:\Download\firefox.exe with args []
+1565581481161	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61324
+1565581487487	Marionette	INFO	Listening on port 61324
+1565581489122	Marionette	WARN	TLS certificate errors will be ignored for this session
+1565581518360	Marionette	INFO	New connections will no longer be accepted
+[Child 5796] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[Child 5796] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1565581518880	geckodriver	INFO	Listening on 127.0.0.1:61386
+1565581521933	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.zzaIyzLDtJaY
+1565581521943	geckodriver::marionette	INFO	Starting browser F:\Download\firefox.exe with args []
+1565581522001	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61395
+1565581524447	Marionette	INFO	Listening on port 61395
+1565581525567	Marionette	WARN	TLS certificate errors will be ignored for this session
+1565581545291	Marionette	INFO	New connections will no longer be accepted
+[Child 9128] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[Child 9128] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1565581545615	geckodriver	INFO	Listening on 127.0.0.1:61450
+1565581548661	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.pkUWBmnS5rGP
+1565581548668	geckodriver::marionette	INFO	Starting browser F:\Download\firefox.exe with args []
+1565581548708	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61460
+1565581550936	Marionette	INFO	Listening on port 61460
+1565581552026	Marionette	WARN	TLS certificate errors will be ignored for this session
+1565581571150	Marionette	INFO	New connections will no longer be accepted
+[Child 7784] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[Child 7784] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1565585370876	geckodriver	INFO	Listening on 127.0.0.1:62296
+1565585373983	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.Ct0zIE2Ww5pq
+1565585373990	geckodriver::marionette	INFO	Starting browser F:\Download\firefox.exe with args []
+1565585374139	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62304
+1565585381851	Marionette	INFO	Listening on port 62304
+1565585384358	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: can't access dead object
+Full stack: find_@chrome://marionette/content/element.js:279:7
+element.find/</findElements<@chrome://marionette/content/element.js:250:15
+implicitlyWaitFor/</elementSearch@chrome://marionette/content/element.js:594:15
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: can't access dead object
+Full stack: find_@chrome://marionette/content/element.js:279:7
+element.find/</findElements<@chrome://marionette/content/element.js:250:15
+implicitlyWaitFor/</elementSearch@chrome://marionette/content/element.js:594:15
+
+*************************
+Marionette threw an error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: chrome://marionette/content/proxy.js :: sendReply_ :: line 195"  data: no]
+sendReply_@chrome://marionette/content/proxy.js:195:5
+reply@chrome://marionette/content/proxy.js:175:7
+sendToServer@chrome://marionette/content/listener.js:439:3
+sendError@chrome://marionette/content/listener.js:473:3
+dispatch/</<@chrome://marionette/content/listener.js:202:40
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:935:21
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+1565585404586	geckodriver	INFO	Listening on 127.0.0.1:62358
+1565585407631	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.RvHSz9BBCYpB
+1565585407639	geckodriver::marionette	INFO	Starting browser F:\Download\firefox.exe with args []
+1565585407786	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62367
+1565585409997	Marionette	INFO	Listening on port 62367
+1565585410982	Marionette	WARN	TLS certificate errors will be ignored for this session
+1565593159800	geckodriver	INFO	Listening on 127.0.0.1:64811
+1565593162866	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.TMn0O6uVpfu0
+1565593162872	geckodriver::marionette	INFO	Starting browser F:\Download\firefox.exe with args []
+1565593162917	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64819
+1565593164417	Marionette	INFO	Listening on port 64819
+1565593165414	Marionette	WARN	TLS certificate errors will be ignored for this session
+1565593185774	Marionette	INFO	New connections will no longer be accepted
+[Child 9484] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[Child 9484] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1565593186248	geckodriver	INFO	Listening on 127.0.0.1:64869
+1565593189264	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.dkgnRU8AzQyf
+1565593189271	geckodriver::marionette	INFO	Starting browser F:\Download\firefox.exe with args []
+1565593189313	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64878
+1565593191518	Marionette	INFO	Listening on port 64878
+1565593192631	Marionette	WARN	TLS certificate errors will be ignored for this session
+1565593211994	Marionette	INFO	New connections will no longer be accepted
+[Child 11624] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[Child 11624] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1565593212353	geckodriver	INFO	Listening on 127.0.0.1:64933
+1565593215402	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.ZvUCWNPslhMi
+1565593215410	geckodriver::marionette	INFO	Starting browser F:\Download\firefox.exe with args []
+1565593215445	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64942
+1565593217495	Marionette	INFO	Listening on port 64942
+1565593218680	Marionette	WARN	TLS certificate errors will be ignored for this session
+1565593237844	Marionette	INFO	New connections will no longer be accepted
+[Child 21660] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[Child 21660] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1565661660709	geckodriver	INFO	Listening on 127.0.0.1:57041
+1565661663827	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.6A3k13Z4Ba1V
+1565661663833	geckodriver::marionette	INFO	Starting browser F:\Download\firefox.exe with args []
+1565661663906	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57050
+1565661666394	Marionette	INFO	Listening on port 57050
+1565661667648	Marionette	WARN	TLS certificate errors will be ignored for this session
+1565661688875	Marionette	INFO	New connections will no longer be accepted
+[Child 2304] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[Child 2304] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1565661689286	geckodriver	INFO	Listening on 127.0.0.1:57104
+1565661692323	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.nM6Nr1mXJa2y
+1565661692329	geckodriver::marionette	INFO	Starting browser F:\Download\firefox.exe with args []
+1565661692357	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57113
+1565661693653	Marionette	INFO	Listening on port 57113
+1565661694664	Marionette	WARN	TLS certificate errors will be ignored for this session
+1565661714433	Marionette	INFO	New connections will no longer be accepted
+[Child 1388] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[Child 1388] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1565661714905	geckodriver	INFO	Listening on 127.0.0.1:57160
+1565661717944	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.BsLg42g9wOfJ
+1565661717957	geckodriver::marionette	INFO	Starting browser F:\Download\firefox.exe with args []
+1565661718007	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57169
+1565661719327	Marionette	INFO	Listening on port 57169
+1565661720279	Marionette	WARN	TLS certificate errors will be ignored for this session
+1565661739550	Marionette	INFO	New connections will no longer be accepted
+[Child 9992] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+[Child 9992] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143

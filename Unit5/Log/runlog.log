@@ -1,0 +1,39 @@
+INFO:root:hello,world
+WARNING:root:warning info
+ERROR:root:error info
+CRITICAL:root:critical info
+2019-08-02 17:33:54,178 logging_test.py[line:9]INFOhello,world
+2019-08-02 17:33:54,200 logging_test.py[line:10]WARNINGwarning info
+2019-08-02 17:33:54,200 logging_test.py[line:11]ERRORerror info
+2019-08-02 17:33:54,200 logging_test.py[line:12]CRITICALcritical info
+2019-08-05 11:07:17,177 5-9.Python9.py[line:27]INFOstart app......
+2019-08-05 11:07:36,632 5-9.Python9.py[line:31]INFOcheck cancelBtn！
+2019-08-05 11:07:37,863 5-9.Python9.py[line:41]INFOcheck skipBtn！
+2019-08-05 11:10:00,618 5-9.Python9.py[line:27]INFOstart app......
+2019-08-05 11:10:15,719 5-9.Python9.py[line:31]INFOcheck cancelBtn！
+2019-08-05 11:10:16,601 5-9.Python9.py[line:41]INFOcheck skipBtn！
+2019-08-05 19:19:53,268 5-10.Python10.py[line:31] INFO check cancelBtn！
+2019-08-05 19:19:54,544 5-10.Python10.py[line:41] INFO check skipBtn！
+2019-08-06 10:13:42,867 5-10.Python10.py[line:31] INFO check cancelBtn！
+2019-08-06 10:13:43,749 5-10.Python10.py[line:41] INFO check skipBtn！
+2019-08-08 16:00:11,168 5-10.Python10.py[line:31] INFO check cancelBtn！
+2019-08-08 16:00:12,214 5-10.Python10.py[line:41] INFO check skipBtn！
+2019-08-12 09:45:57,577 5-10.Python10.py[line:31] INFO check cancelBtn！
+2019-08-12 09:45:57,898 5-10.Python10.py[line:36] INFO no cancelBtn
+2019-08-12 09:45:57,898 5-10.Python10.py[line:41] INFO check skipBtn！
+2019-08-12 09:45:57,926 5-10.Python10.py[line:46] INFO no skipBtn
+2019-08-12 09:47:13,623 5-10.Python10.py[line:31] INFO check cancelBtn！
+2019-08-12 09:47:14,476 5-10.Python10.py[line:41] INFO check skipBtn！
+2019-08-12 11:31:10,759 5-9.Python9.py[line:27]INFOstart app......
+2019-08-12 11:31:11,764 remote_connection.py[line:117]INFOCould not connect to port 4723 on host 127.0.0.1
+2019-08-12 11:31:11,764 remote_connection.py[line:136]INFOCould not get IP address for host: 127.0.0.1
+2019-08-12 11:31:12,803 connectionpool.py[line:665]WARNINGRetrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000018512F2C278>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /wd/hub/session
+2019-08-12 11:31:13,815 connectionpool.py[line:665]WARNINGRetrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000018512F2C358>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /wd/hub/session
+2019-08-12 11:31:14,817 connectionpool.py[line:665]WARNINGRetrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000018512F2C3C8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /wd/hub/session
+2019-08-12 11:34:15,637 5-9.Python9.py[line:27]INFOstart app......
+2019-08-12 11:34:32,996 5-9.Python9.py[line:31]INFOcheck cancelBtn！
+2019-08-12 11:34:33,348 5-9.Python9.py[line:36]INFOno cancelBtn
+2019-08-12 11:34:33,349 5-9.Python9.py[line:41]INFOcheck skipBtn！
+2019-08-12 11:34:33,400 5-9.Python9.py[line:46]INFOno skipBtn
+2019-08-12 11:35:10,664 5-10.Python10.py[line:31] INFO check cancelBtn！
+2019-08-12 11:35:11,528 5-10.Python10.py[line:41] INFO check skipBtn！
